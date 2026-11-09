@@ -81,3 +81,4 @@ mosquitto_sub -t "casa/#" -v
 ## Documentação
 
 As notas de cada etapa ficam na pasta [docs](docs/).
+- [Conceitos de MQTT](docs/conceitos-mqtt.md)
